@@ -1,5 +1,7 @@
 
-![presentación](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHRhdDRub2tncGdodm03dHBuM3c3ZWxxNzNkczI4M2ZwajBrNGFjMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j8Y5LDsVpSxJVmgxrS/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHRhdDRub2tncGdodm03dHBuM3c3ZWxxNzNkczI4M2ZwajBrNGFjMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j8Y5LDsVpSxJVmgxrS/giphy.gif" alt="GIF animado">
+</p>
 
                                                                         Juan David Quimbayo Trujillo
 
