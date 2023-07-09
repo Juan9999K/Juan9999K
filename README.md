@@ -22,3 +22,7 @@
   </a>
 </p>
 
+### GitHub Stats 🚀
+
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=Juan9999k&show_icons=true alt=rahuldkjain /> </p>
+
