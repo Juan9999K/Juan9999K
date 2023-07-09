@@ -13,4 +13,4 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/juan-trujillo-64bbba174/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="juan-trujillo" height="30" width="40" /></a>
-<a href="https://juan-trujillo.netlify.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=devto" alt="juan-trujillo" height="30" width="40" /></a>
+
